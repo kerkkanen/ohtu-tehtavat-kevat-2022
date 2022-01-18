@@ -56,7 +56,7 @@ class TestVarasto(unittest.TestCase):
 
     def test_lisataan_mita_mahtuu(self):
         tila = Varasto(10, 12)
-        self.assertEqual(str(tila), "saldo = 10, vielä tilaa 0")
+        self.assertEual(str(tila), "saldo = 10, vielä tilaa 0")
         self.assertEqual(tila.ota_varastosta(11), 10)
         
         
