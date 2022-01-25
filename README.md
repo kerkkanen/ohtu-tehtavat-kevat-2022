@@ -1,3 +1,4 @@
 # Ohtu kevät 2022 -tehtävät
 
 ![Github Actions](https://github.com/kerkkanen/ohtu-tehtavat-kevat-2022/workflows/CI/badge.svg)
+![Codecov]([![codecov](https://codecov.io/gh/kerkkanen/ohtu-tehtavat-kevat-2022/branch/main/graph/badge.svg?token=L8009YDJK4)](https://codecov.io/gh/kerkkanen/ohtu-tehtavat-kevat-2022)
