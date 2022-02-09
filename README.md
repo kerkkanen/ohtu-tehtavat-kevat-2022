@@ -4,4 +4,4 @@
 ![Codecov](https://codecov.io/gh/kerkkanen/ohtu-tehtavat-kevat-2022/branch/main/graph/badge.svg?token=L8009YDJK4)
 
 Muut ohtu-tehtävät:
-https://github.com/kerkkanen/toinen-ohtu-repositorio
+![Toinen ohtu-repositorio](https://github.com/kerkkanen/toinen-ohtu-repositorio)
